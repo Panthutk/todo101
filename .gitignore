@@ -1,4 +1,3 @@
 node_modules/
 
-# MongoDB files
 backend/mongodb/
